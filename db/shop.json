@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus",
+      "imageUrl": "https://images.unsplash.com/photo-1531063626275-e6680b864755?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    },
+    {
+      "id": 2,
+      "name": "laptop",
+      "price": 1500,
+      "categoryId": 1,
+      "description": "Lenovo",
+      "imageUrl": "https://images.unsplash.com/photo-1527434009951-75a8f7558468?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "name": "koltuk",
+      "price": 1000,
+      "categoryId": 2,
+      "description": "L Koltuk",
+      "imageUrl": "https://images.unsplash.com/photo-1527434009951-75a8f7558468?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Ev&Yasam"
+    },
+    {
+      "id": 3,
+      "name": "Pet Shop"
+    },
+    {
+      "id": 4,
+      "name": "Spor&Outdoor"
+    },
+    {
+      "id": 5,
+      "name": "Kozmetik&Kiþisel Bakým"
+    },
+    {
+      "id": 6,
+      "name": "Oto&Bahçe"
+    }
+  ]
+}
